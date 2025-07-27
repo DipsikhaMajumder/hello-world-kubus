@@ -9,3 +9,6 @@ Requirements
 • When a user opens the webpage for the first time, it should show a page with just the
 word: Hello
 • When the user refreshes or returns later, it should instead show: World
+
+# How to Run
+Open index.html in a browser.
